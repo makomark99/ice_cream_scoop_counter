@@ -149,12 +149,12 @@ export default {
 
 <style>
 button {
-  font-size: 2em !important;
+  font-size: 1.2em !important;
 }
 input {
-  font-size: 1.8em !important;
+  font-size: 1.2em !important;
 }
 span {
-  font-size: 1.8em !important;
+  font-size: 1.2em !important;
 }
 </style>
