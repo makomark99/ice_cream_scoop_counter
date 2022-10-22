@@ -4,19 +4,19 @@
 
     <div class="mb-3 row">
         <div class="d-grid d-md-flex gap-2 col-12">
-        <div class="input-group h-75 w-75 mb-3">
+         <div class="input-group h-75 w-100 mb-3">
           <span
             class="input-group-text bg-primary text-white"
             
             >1 gombóc</span
           >
-          <input type="number" :value="price" @change="onInput" class="form-control"  />
+          <input type="number" :value="price" @change="onInput" class="form-control "  />
           <span
             class="input-group-text bg-primary text-white"
             
             >Ft</span>
           
-        </div>
+         </div>
          </div>
       <div class="d-grid d-md-flex gap-2 col-12">
         <button
